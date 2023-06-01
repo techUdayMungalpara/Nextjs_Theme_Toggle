@@ -4,7 +4,6 @@ import { Providers } from "./providers";
 
 const inter = Inter({ subsets: ["latin"] });
 import Header from "./Header";
-import Footer from "./Footer";
 
 export const metadata = {
   title: "Create Next App",
